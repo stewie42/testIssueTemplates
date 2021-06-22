@@ -2,7 +2,7 @@
 name: 🐞 Bug-Report
 about: 'Du findest Bugs - wir beheben sie'
 title: ''
-labels: :beetle: bug
+labels: ':beetle: bug'
 assignees: ''
 
 ---
